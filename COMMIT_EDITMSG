@@ -1,0 +1,26 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Changes to be committed:
+#	new file:   app/(auth)/sign-in/[[...sign-in]]/page.jsx
+#	new file:   app/(auth)/sign-up/[[...sign-up]]/page.jsx
+#	new file:   app/(routes)/dashboard/_components/SideNav.jsx
+#	new file:   app/(routes)/dashboard/layout.jsx
+#	new file:   app/(routes)/dashboard/page.jsx
+#	new file:   app/_components/Header.jsx
+#	new file:   app/_components/Hero.jsx
+#	modified:   app/globals.css
+#	modified:   app/layout.js
+#	modified:   app/page.js
+#	new file:   components.json
+#	new file:   components/ui/button.jsx
+#	new file:   lib/utils.js
+#	new file:   middleware.ts
+#	modified:   package-lock.json
+#	modified:   package.json
+#	new file:   public/image.png
+#	new file:   public/logo.svg
+#	modified:   tailwind.config.mjs
+#
